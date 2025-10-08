@@ -4,22 +4,20 @@
 To create a warehouse application in salesforce.com
 
 ## Procedure
-
 ### Types of Applications in SFDC
-
 In Salesforce.com, we have two types of Applications they are
 1.	Classic Apps and
 2.	Lightning Apps.
-
 In Salesforce we can create, manage and customise both applications according to user requirement.
 
 ## PROCEDURE
 
 ### Step 1: Log into your developer
-![Ex2-1](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/93b506fe-5542-4036-a344-939cbe7e67f3)
+
+<img width="646" height="792" alt="image" src="https://github.com/user-attachments/assets/931892fb-1e04-445c-b026-2ddec61f9e9f" />
 
 ### Step 2: Click the Setup Link (upper-right corner).
- ![ex2-2](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/183746f5-0293-4cd4-bece-09eb8b7ed11e)
+<img width="1006" height="869" alt="image" src="https://github.com/user-attachments/assets/2f257460-d14b-43b7-9411-c6d9e840792f" />
 
 
 ### Step 3: In the Left Navigation, Platform tools, then click App Manager
